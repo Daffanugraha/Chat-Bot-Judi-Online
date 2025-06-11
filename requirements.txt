@@ -5,3 +5,4 @@ protobuf>=3.20
 python-dotenv
 scikit-learn>=1.2
 streamlit>=1.25
+google-generativeai
