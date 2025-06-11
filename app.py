@@ -11,6 +11,7 @@ import re
 import html
 from sklearn.metrics.pairwise import cosine_similarity
 import streamlit.components.v1 as components
+import other_libraries
 
 # ===========================
 # Load ENV & Konfigurasi
@@ -161,6 +162,11 @@ with st.sidebar:
         st.session_state.current_thread_index = None
         st.session_state.new_thread_pending = True
         st.session_state.selected_thread_index = None  # ⬅️ reset pilihan radio
+
+st.markdown(
+    '<meta name="dicoding:email" content="nugrahadaffa568@gmail.com">',
+    unsafe_allow_html=True
+)
 
 # ===========================
 # Header
