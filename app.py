@@ -164,6 +164,7 @@ with st.sidebar:
 
 st.markdown(
     '<meta name="dicoding:email" content="nugrahadaffa568@gmail.com">',
+     '<meta name="dicoding:email" content="jabirsupriadi1704@gmail.com">',
     unsafe_allow_html=True
 )
 
