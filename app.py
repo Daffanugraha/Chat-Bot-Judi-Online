@@ -163,10 +163,12 @@ with st.sidebar:
         st.session_state.selected_thread_index = None  # ⬅️ reset pilihan radio
 
 st.markdown(
-    '<meta name="dicoding:email" content="nugrahadaffa568@gmail.com">',
-     '<meta name="dicoding:email" content="jabirsupriadi1704@gmail.com">',
+    '''
+    <meta name="dicoding:email" content="nugrahadaffa568@gmail.com">
+    ''',
     unsafe_allow_html=True
 )
+
 
 # ===========================
 # Header
