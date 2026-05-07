@@ -425,10 +425,4 @@ Proyek ini dibuat **murni untuk tujuan edukasi**. Seluruh informasi yang disajik
 
 ---
 
-<div align="center">
-
-Dibuat dengan ❤️ untuk Indonesia yang lebih bebas dari judi online.
-
-⭐ **Jika proyek ini bermanfaat, berikan bintang!** ⭐
-
 </div>
